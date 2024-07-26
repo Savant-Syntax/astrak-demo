@@ -1,4 +1,4 @@
 # astrak-demo
 This is my first Git repository.
 <br>
-Author - Ayanokoji Kiyotaka (Astrak)
+Author - Ayanokoji Kiyotaka (Astrak) 
